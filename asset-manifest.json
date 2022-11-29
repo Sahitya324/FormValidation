@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sahitya324/FormValidation/static/css/main.11cffe3e.css",
+    "main.js": "/Sahitya324/FormValidation/static/js/main.da90ef20.js",
+    "static/js/787.c796d233.chunk.js": "/Sahitya324/FormValidation/static/js/787.c796d233.chunk.js",
+    "index.html": "/Sahitya324/FormValidation/index.html",
+    "main.11cffe3e.css.map": "/Sahitya324/FormValidation/static/css/main.11cffe3e.css.map",
+    "main.da90ef20.js.map": "/Sahitya324/FormValidation/static/js/main.da90ef20.js.map",
+    "787.c796d233.chunk.js.map": "/Sahitya324/FormValidation/static/js/787.c796d233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cffe3e.css",
+    "static/js/main.da90ef20.js"
+  ]
+}
